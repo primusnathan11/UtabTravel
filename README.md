@@ -4,9 +4,9 @@ UtabTravel is a tourism website that make user will be able to search for inform
 
 ## Documentation
 
-- For website design you can see <a href = "https://github.com/GWENTzy/UtabTravel/blob/master/UtabTravel%20Prototype%20Design.jpg"> here
-	
-- You can see demo and explained for this website <a href = "https://www.youtube.com/watch?v=Bk6jXrW5Yi0"> here
+For website design you can see <a href = "https://github.com/GWENTzy/UtabTravel/blob/master/UtabTravel%20Prototype%20Design.jpg"> here
+
+You can see demo and explained for this website <a href = "https://www.youtube.com/watch?v=Bk6jXrW5Yi0"> here
 
 ## Licensed
-Licensed under [MIT](https://github.com/GWENTzy/UtabTravel/blob/master/LISENCE)
+Licensed under [MIT](https://github.com/GWENTzy/UtabTravel/blob/master/license.txt)
